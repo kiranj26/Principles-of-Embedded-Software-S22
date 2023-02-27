@@ -1,0 +1,13 @@
+../source/LED_Func.c:58:6:delay_ms	24	static
+../source/LED_Func.c:78:6:init_leds	8	static
+../source/LED_Func.c:108:6:turn_on_red_led	8	static
+../source/LED_Func.c:119:6:turn_off_red_led	8	static
+../source/LED_Func.c:131:6:turn_on_green_led	8	static
+../source/LED_Func.c:143:6:turn_off_green_led	8	static
+../source/LED_Func.c:154:6:turn_on_blue_led	8	static
+../source/LED_Func.c:164:6:turn_off_blue_led	8	static
+../source/LED_Func.c:173:6:turn_on_white_led	8	static
+../source/LED_Func.c:184:6:turn_off_white_led	8	static
+../source/LED_Func.c:195:6:turn_off_all_leds	8	static
+../source/LED_Func.c:210:6:test_led_blinking_pattern	8	static
+../source/LED_Func.c:254:6:infinite_loop	40	static
