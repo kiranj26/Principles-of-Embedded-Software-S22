@@ -1,0 +1,7 @@
+../source/state_machine.c:32:6:delay_1sec	0	static
+../source/state_machine.c:38:9:check_temperature	8	static
+../source/state_machine.c:51:9:check_humidity	8	static
+../source/state_machine.c:64:6:print_temp_humd	8	static
+../source/state_machine.c:80:6:check_alert_mode_time	0	static
+../source/state_machine.c:92:6:check_slider_input	8	static
+../source/state_machine.c:120:6:state_machine	16	static

@@ -1,0 +1,3 @@
+../source/wdt.c:3:6:Init_wdt	0	static
+../source/wdt.c:10:6:Deinit_wdt	0	static
+../source/wdt.c:15:6:Refresh_wdt	0	static

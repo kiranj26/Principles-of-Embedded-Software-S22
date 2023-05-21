@@ -1,0 +1,8 @@
+../source/timer.c:13:6:init_systick	0	static
+../source/timer.c:21:6:SysTick_Handler	0	static
+../source/timer.c:27:12:now	0	static
+../source/timer.c:32:12:now_alert_time	0	static
+../source/timer.c:36:6:reset_timer	8	static
+../source/timer.c:42:6:reset_alert_mode_timer	0	static
+../source/timer.c:48:12:get_timer	0	static
+../source/timer.c:53:12:get_alert_time	0	static

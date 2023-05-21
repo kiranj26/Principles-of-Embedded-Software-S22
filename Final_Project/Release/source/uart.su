@@ -1,0 +1,5 @@
+../source/uart.c:12:6:Init_UART0	16	static
+../source/uart.c:74:6:UART0_IRQHandler	24	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:247:5:__sys_write	16	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:241:5:__sys_readc	16	static
+../source/uart.c:169:6:print_UI	16	static

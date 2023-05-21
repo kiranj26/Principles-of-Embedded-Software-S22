@@ -1,0 +1,3 @@
+../source/pwm.c:6:6:Init_Blue_LED_PWM	8	static
+../source/pwm.c:35:6:Init_Green_LED_PWM	8	static
+../source/pwm.c:64:6:Init_Red_LED_PWM	8	static

@@ -1,0 +1,3 @@
+../source/TSI.c:53:6:init_TSI	8	static
+../source/TSI.c:75:5:load_val_TSI	16	static
+../source/TSI.c:106:10:TSI_Polling	24	static

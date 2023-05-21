@@ -1,0 +1,3 @@
+../source/test_cbfifo.c:28:13:test_cbfifo_transmiter	560	static
+../source/test_cbfifo.c:156:13:test_cbfifo_receiver	560	static
+../source/test_cbfifo.c:285:6:test_cbfifo	8	static

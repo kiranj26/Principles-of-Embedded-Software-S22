@@ -1,0 +1,8 @@
+../source/process_command.c:79:6:handle_author	16	static
+../source/process_command.c:86:6:handle_test	16	static
+../source/process_command.c:114:6:handle_hum	24	static
+../source/process_command.c:126:6:handle_temp	24	static
+../source/process_command.c:140:6:handle_statemachine	16	static
+../source/process_command.c:157:6:delay_100ms	16	static
+../source/process_command.c:163:6:handle_help	16	static
+../source/process_command.c:206:6:process_command	88	static

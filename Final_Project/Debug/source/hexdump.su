@@ -1,0 +1,2 @@
+../source/hexdump.c:33:13:int_to_hexchar	16	static
+../source/hexdump.c:45:6:hexdump	40	static

@@ -1,0 +1,10 @@
+../source/rgb_led.c:11:6:Delay	8	static
+../source/rgb_led.c:21:6:rgb_led	0	static
+../source/rgb_led.c:145:6:breathing_effect_blue	24	static
+../source/rgb_led.c:165:6:breathing_effect_red	24	static
+../source/rgb_led.c:185:6:breathing_effect_green	24	static
+../source/rgb_led.c:205:6:breathing_effect_cyan	24	static
+../source/rgb_led.c:225:6:breathing_effect_white	24	static
+../source/rgb_led.c:245:6:breathing_effect_gray	8	static
+../source/rgb_led.c:264:6:breathing_effect_yellow	24	static
+../source/rgb_led.c:283:6:test_pwm	8	static

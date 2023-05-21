@@ -1,0 +1,8 @@
+/Users/kiran/Desktop/Pes_Final_Project-main/CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+/Users/kiran/Desktop/Pes_Final_Project-main/CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+/Users/kiran/Desktop/Pes_Final_Project-main/CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/uart.c:33:6:Init_UART0	32	static
+../source/uart.c:79:6:UART0_IRQHandler	24	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:247:5:__sys_write	32	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:241:5:__sys_readc	16	static
+../source/uart.c:172:6:print_UI	8	static
