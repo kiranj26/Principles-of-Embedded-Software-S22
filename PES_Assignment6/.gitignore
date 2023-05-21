@@ -1,0 +1,6 @@
+*.o
+Debug
+Release
+.DS_Store
+*.mex
+*.launch

@@ -1,0 +1,4 @@
+../source/tpm.c:44:6:timer_init_TMP0	16	static
+../source/tpm.c:67:6:timer_start_TMP0	8	static
+../source/tpm.c:72:6:timer_init_TMP1	8	static
+../source/tpm.c:89:6:timer_start_TMP1	8	static

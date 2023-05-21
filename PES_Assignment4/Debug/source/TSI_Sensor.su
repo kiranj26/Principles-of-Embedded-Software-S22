@@ -1,0 +1,3 @@
+../source/TSI_Sensor.c:67:6:init_TSI	8	static
+../source/TSI_Sensor.c:89:5:load_val_TSI	16	static
+../source/TSI_Sensor.c:118:10:TSI_Touch_Detected	16	static

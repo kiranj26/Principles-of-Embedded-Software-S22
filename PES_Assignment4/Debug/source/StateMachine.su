@@ -1,0 +1,11 @@
+../source/StateMachine.c:120:6:RGB_STOP_State_StartValue	8	static
+../source/StateMachine.c:130:6:RGB_STOP_State_EndValue	8	static
+../source/StateMachine.c:140:6:RGB_GO_State_StartValue	8	static
+../source/StateMachine.c:150:6:RGB_GO_State_EndValue	8	static
+../source/StateMachine.c:160:6:RGB_WARNING_State_StartValue	8	static
+../source/StateMachine.c:170:6:RGB_WARNING_State_EndValue	8	static
+../source/StateMachine.c:180:6:RGB_CROSSWALK_State_StartValue	8	static
+../source/StateMachine.c:190:6:RGB_CROSSWALK_State_EndValue	8	static
+../source/StateMachine.c:205:6:Transition_Within_Transition_Processing	8	static
+../source/StateMachine.c:226:6:TouchSensor_Switch_Detection	8	static
+../source/StateMachine.c:278:6:State_Machine	16	static

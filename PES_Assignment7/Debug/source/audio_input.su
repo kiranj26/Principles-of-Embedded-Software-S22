@@ -1,0 +1,5 @@
+../source/audio_input.c:58:6:ADC_initialise	8	static
+../source/audio_input.c:83:6:ADC_Calibration	16	static
+../source/audio_input.c:119:6:global_delay	24	static
+../source/audio_input.c:133:6:audio_input	16	static
+../source/audio_input.c:156:6:audio_analysis	48	static

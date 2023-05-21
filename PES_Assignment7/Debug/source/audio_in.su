@@ -1,0 +1,5 @@
+../source/audio_in.c:41:6:adc_calibrate	16	static
+../source/audio_in.c:70:6:Init_ADC	8	static
+../source/audio_in.c:89:6:delay	24	static
+../source/audio_in.c:96:6:audio_in	16	static
+../source/audio_in.c:109:6:audio_analysis	48	static

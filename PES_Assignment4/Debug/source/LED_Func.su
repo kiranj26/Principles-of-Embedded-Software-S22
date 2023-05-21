@@ -1,0 +1,3 @@
+../source/LED_Func.c:38:6:init_PWM_LED	16	static
+../source/LED_Func.c:100:6:set_color	40	static
+../source/LED_Func.c:118:6:color_transition	16	static

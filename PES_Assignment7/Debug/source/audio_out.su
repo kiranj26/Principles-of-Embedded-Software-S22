@@ -1,0 +1,9 @@
+/Users/kiran/Documents/GitHub/assignment-7-waveforms-kiranj26/CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+/Users/kiran/Documents/GitHub/assignment-7-waveforms-kiranj26/CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+/Users/kiran/Documents/GitHub/assignment-7-waveforms-kiranj26/CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/audio_out.c:58:6:DAC_init	8	static
+../source/audio_out.c:77:6:tone_to_samples	24	static
+../source/audio_out.c:101:6:audio_output	16	static
+../source/audio_out.c:133:6:init_dma_for_playback	16	static
+../source/audio_out.c:160:6:start_dma_playback	8	static
+../source/audio_out.c:175:6:DMA0_IRQHandler	8	static

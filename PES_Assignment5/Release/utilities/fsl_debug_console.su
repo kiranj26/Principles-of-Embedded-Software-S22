@@ -1,0 +1,8 @@
+/Volumes/Partition 1 - Kiran/Course Work/PES/Assignments/Assignment5/PBKDF2 - Spring23/drivers/fsl_uart.h:500:20:UART_EnableTx	16	static
+/Volumes/Partition 1 - Kiran/Course Work/PES/Assignments/Assignment5/PBKDF2 - Spring23/drivers/fsl_uart.h:520:20:UART_EnableRx	16	static
+/Volumes/Partition 1 - Kiran/Course Work/PES/Assignments/Assignment5/PBKDF2 - Spring23/drivers/fsl_lpsci.h:461:20:LPSCI_EnableTx	16	static
+/Volumes/Partition 1 - Kiran/Course Work/PES/Assignments/Assignment5/PBKDF2 - Spring23/drivers/fsl_lpsci.h:481:20:LPSCI_EnableRx	16	static
+../utilities/fsl_debug_console.c:232:10:DbgConsole_Init	48	static
+../utilities/fsl_debug_console.c:334:10:DbgConsole_Deinit	8	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:247:5:__sys_write	32	static
+/Applications/MCUXpressoIDE_11.7.0_9198/ide/plugins/com.nxp.mcuxpresso.tools.macosx_11.7.0.202209140929/tools/redlib/include/sys/libconfig-arm.h:241:5:__sys_readc	24	static

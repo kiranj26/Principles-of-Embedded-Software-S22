@@ -1,0 +1,26 @@
+# Set the build date and time
+BUILD_TIMESTAMP := $(shell powershell -Command "Get-Date -Format 'yyyy-MM-dd_HH:mm:ss'")
+
+# Set the hostname of the machine doing the build
+BUILD_MACHINE := $(shell hostname)
+
+# Get the latest Git tag
+GIT_TAG :=$(shell git tag)
+
+# Get the Git hash of the latest commit
+GIT_COMMIT_HASH := $(shell git log --pretty=format:"%H" HEAD -1)
+
+
+
+
+# Define the preprocessor definition for the Git commit hash
+BUILD_GIT_COMMIT_DEF += -DVERSION_GIT_COMMIT_HASH="\"$(GIT_COMMIT_HASH)\""
+
+# Define the preprocessor definition for the build timestamp
+BUILD_TIMESTAMP_DEF += -DVERSION_BUILD_TIMESTAMP="\"$(BUILD_TIMESTAMP)\""
+
+# Define the preprocessor definition for the Git tag
+BUILD_GIT_TAG_DEF += -DVERSION_GIT_TAG="\"$(GIT_TAG)\""
+
+# Define the preprocessor definition for the build machine
+BUILD_MACHINE_DEF += -DVERSION_BUILD_MACHINE="\"$(BUILD_MACHINE)\""

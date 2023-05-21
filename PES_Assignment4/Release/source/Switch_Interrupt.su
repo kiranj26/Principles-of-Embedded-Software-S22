@@ -1,0 +1,7 @@
+/Users/kiran/Documents/MCUXpressoIDE_11.7.0_9198/workspace/Assignment4_KiranJojare/CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+/Users/kiran/Documents/MCUXpressoIDE_11.7.0_9198/workspace/Assignment4_KiranJojare/CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+/Users/kiran/Documents/MCUXpressoIDE_11.7.0_9198/workspace/Assignment4_KiranJojare/CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/Switch_Interrupt.c:50:6:InitInterrupt	8	static
+../source/Switch_Interrupt.c:77:6:PORTA_IRQHandler	8	static
+../source/Switch_Interrupt.c:97:6:Switch_Detected	8	static
+../source/Switch_Interrupt.c:111:6:Switch_Flag_Reset	8	static
