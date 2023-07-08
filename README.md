@@ -18,7 +18,11 @@ This repository contains a collection of assignments completed for the subject "
 
 7. **Testing and Debugging:** I have developed and refined practices for testing and debugging embedded software. I have learned various techniques to identify and resolve software issues, ensuring the reliability and robustness of the code.
 
-8. **Numerical Programming:** I have gained proficiency in numerical programming techniques required for embedded systems. This includes working with mathematical algorithms and optimizing numerical computations for efficiency.
+## Hardware Used
+
+- KL25Z NXP Freedom Board: The KL25Z NXP Freedom Board serves as the main microcontroller platform for this project. It features an ARM Cortex-M0+ processor, offering sufficient processing power and peripherals for data communication and control tasks.
+[KL25Z NXP Freedom Board](https://www.nxp.com/products/processors-and-microcontrollers/arm-based-processors-and-mcus/kinetis-cortex-m-mcus/l-series-ultra-low-power-m0-plus/kinetis-kl2x-72-96-mhz-usb-ultra-low-power-microcontrollers-mcus-based-on-arm-cortex-m0-plus-core:KL25Z):
+
 
 ## Assignments
 
@@ -28,13 +32,10 @@ Please refer to the individual assignment folders for detailed descriptions, sou
 
 By the end of this course, I have achieved a thorough understanding of the steps needed to develop and deploy code on resource-limited embedded microprocessors.
 
-## Note
-
-This repository is solely for educational purposes and to showcase my progress and skills in "Principles of Embedded Software." The assignments and code provided here should not be copied or used for any other purpose without proper authorization.
 
 ## Contact
 
-If you have any questions or would like to discuss any aspect of this repository, feel free to contact me at [your email address].
+If you have any questions or would like to discuss any aspect of this repository, feel free to contact me at [kijo7257@colorado.edu].
 
 Thank you!
 
